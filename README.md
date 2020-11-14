@@ -1,7 +1,7 @@
 # CHOP_exercises  
   
 ## Section 1  
-Folder Name: Section1
+##### Folder Name: Section1
 
 A workflow which takes:
   - Input FastQ/BAM file
@@ -22,12 +22,12 @@ Command line options for pipeline.sh
 
 ## Section 2
 
-###Q1  
-#####Folder Name: Section2/Q1   
+### Q1  
+##### Folder Name: Section2/Q1   
 Result Files : male_patients.csv, male_patients.sql  
 
-###Q2
-#####Folder Name: Section2/Q2
+### Q2
+##### Folder Name: Section2/Q2
 
 Folder : Diagnoses
 Visualisation of diagnoses categories for patients
