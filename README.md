@@ -1,7 +1,12 @@
 # CHOP_exercises  
   
 ## Section 1  
-  
+
+A workflow for the functions which takes:
+  - Input FastQ/BAM file
+  - Use BWA MEM to re-align to hg38
+  - Output CRAM file
+
 Command line options for pipeline.sh
 -a first read file in FASTQ  
 -b second read file in FASTQ  
@@ -13,3 +18,7 @@ Command line options for pipeline.sh
 -p picard file  
   
 **example : bash pipeline.sh -a y1.fastq -b y2.fastq -r yeast.fasta -o test_pipeline -x 0 -v 1**  
+
+## Section 2
+
+
