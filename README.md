@@ -4,7 +4,7 @@
 
 A workflow which takes:
   - Input FastQ/BAM file
-  - Use BWA MEM to re-align to hg38
+  - Use BWA MEM to re-align to hg38  
 and output CRAM file
 
 Command line options for pipeline.sh
