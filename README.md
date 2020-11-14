@@ -2,10 +2,10 @@
   
 ## Section 1  
 
-A workflow for the functions which takes:
+A workflow which takes:
   - Input FastQ/BAM file
   - Use BWA MEM to re-align to hg38
-  - Output CRAM file
+and output CRAM file
 
 Command line options for pipeline.sh
 -a first read file in FASTQ  
