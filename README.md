@@ -1,4 +1,4 @@
-# CHOP_exercises  
+# CHOP D^3b Exercises  
   
 ## Section 1  
 ##### Folder Name: Section1
