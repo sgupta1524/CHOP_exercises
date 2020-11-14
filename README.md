@@ -1,6 +1,6 @@
 # CHOP_exercises  
   
-##Section 1  
+## Section 1  
   
 Command line options for pipeline.sh
 -a first read file in FASTQ  
